@@ -1,0 +1,1 @@
+python reduce_model.py --model-input pix2pix-tensorflow/face2face-model --model-output face2face-reduced-model
